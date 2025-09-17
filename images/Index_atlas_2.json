@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"_5291043":
+{
+	"frame": {"x":0,"y":0,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"replay":
+{
+	"frame": {"x":0,"y":514,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.11.4",
+	"image": "Index_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":512,"h":2048},
+	"scale": "1"
+}
+}
